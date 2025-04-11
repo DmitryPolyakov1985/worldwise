@@ -8,4 +8,10 @@ function Message({ message }) {
   );
 }
 
+import PropTypes from "prop-types";
+
+Message.propTypes = {
+  message: PropTypes.string,
+};
+
 export default Message;
