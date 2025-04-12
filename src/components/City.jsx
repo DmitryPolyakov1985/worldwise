@@ -13,7 +13,6 @@ import { useParams, useSearchParams } from "react-router-dom";
 function City() {
   const { id } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
-  console.log("searchParams ", searchParams);
   const lat = searchParams.get("lat");
   const lng = searchParams.get("lng");
 
