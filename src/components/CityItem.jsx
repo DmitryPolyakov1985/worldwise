@@ -11,7 +11,6 @@ const formatDate = (date) =>
 
 function CityItem({ city }) {
   const { currentCity } = useCities();
-  // eslint-disable-next-line no-unused-vars
   const { cityName, emoji, date, id, position } = city;
   return (
     <li>
