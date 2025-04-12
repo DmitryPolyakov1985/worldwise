@@ -8,6 +8,7 @@ import Login from "./pages/Login";
 import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
 import { useEffect, useState } from "react";
+import City from "./components/City";
 
 const BASE_URL = "http://localhost:9000";
 
@@ -30,7 +31,6 @@ function App() {
     }
 
     fetchCities();
-    console.log("isLoading ", isLoading);
   }, []);
 
   return (
@@ -53,6 +53,7 @@ function App() {
             path="countries"
             element={<CountryList cities={cities} isLoading={isLoading} />}
           />
+          <Route path="cities/:id" element={<City />}></Route>
           <Route path="form" element={<p>Form</p>} />
         </Route>
         <Route path="*" element={<PageNotFound />} />
