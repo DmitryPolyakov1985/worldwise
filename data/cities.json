@@ -37,16 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Red Deer",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2025-04-13T21:11:16.030Z",
-      "notes": "13",
+      "cityName": "Onda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-13T21:46:56.881Z",
+      "notes": "12",
       "position": {
-        "lat": "52.26141518278091",
-        "lng": "-113.82755139625398"
+        "lat": "39.95607048431262",
+        "lng": "-0.2635593626818778"
       },
-      "id": 98443199
+      "id": 98443200
+    },
+    {
+      "cityName": "Newcastle upon Tyne",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-04-13T21:51:25.827Z",
+      "notes": "413",
+      "position": {
+        "lat": "54.975247481603",
+        "lng": "-1.6187784474269078"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Athlone",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2025-04-13T21:51:34.153Z",
+      "notes": "244",
+      "position": {
+        "lat": "53.38338578568742",
+        "lng": "-8.211733060596721"
+      },
+      "id": 98443203
     }
   ]
 }
