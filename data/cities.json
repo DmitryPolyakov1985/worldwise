@@ -59,6 +59,18 @@
         "lng": "-8.211733060596721"
       },
       "id": 98443203
+    },
+    {
+      "cityName": "Durham",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-04-14T02:47:21.291Z",
+      "notes": "s",
+      "position": {
+        "lat": "54.776534111420666",
+        "lng": "-1.5759236670262515"
+      },
+      "id": 98443204
     }
   ]
 }
