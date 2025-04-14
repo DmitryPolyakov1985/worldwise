@@ -71,6 +71,18 @@
         "lng": "-1.5759236670262515"
       },
       "id": 98443204
+    },
+    {
+      "cityName": "Morpeth",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-04-14T03:31:25.730Z",
+      "notes": "af",
+      "position": {
+        "lat": "55.167494486765975",
+        "lng": "-1.6899134503053894"
+      },
+      "id": 98443205
     }
   ]
 }
